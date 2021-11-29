@@ -33,7 +33,8 @@ console.log(base64String);
 //=> AQxCb2JzIFJlY29yZHMCDzMxMDEyMjM5MzUwMDAwMwMUMjAyMS0xMS0yOVQxMDo1NTowMFoEBDEwMDAFAzE1MA==
 
 
-const base64String = fatooraKsa.toBase64(obj);
+// Below method returns a promise
+const base64String = await fatooraKsa.toBase64(obj);
 // Will return a base64 image
 ![qrcode](./qrcode.png)
 
