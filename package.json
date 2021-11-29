@@ -1,12 +1,17 @@
 {
   "name": "fatoora-ksa",
   "version": "1.0.0",
-  "description": "E-invoicing module that generates tlv hex and base64 with qr code as image",
+  "description": "E-invoicing module that generates  hex, base64 values and qr code as image",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+	 "E-Invoice",
+	 "Fatoora",
+	 "KSA VAT"
+  ],
+  "author": "HUSNI <husninazer@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "qrcode": "^1.5.0"
