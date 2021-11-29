@@ -1,6 +1,6 @@
 # fatoora-ksa
 
-> Get KSA fatoora as hex or as base64 ora s base64 image
+> A simple nodejs module to generate the Qrcode image /value for the E-invoicing (Fatoora) to generate tax invoice. Values are to be given as tagged list and then generate the values in a 2 step process. 
 
 ## Install
 
@@ -8,7 +8,7 @@
 $ npm install fatoora-ksa
 ```
 
-This module targets Node.js 6 or later and not in the browser. Do ping me if you need to do it in the browser.
+This module targets Node.js 6 or later and not in the browser. Do add a request if you need to do it in the browser.
 
 ## Usage
 
