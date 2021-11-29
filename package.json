@@ -1,0 +1,14 @@
+{
+  "name": "fatoora-ksa",
+  "version": "1.0.0",
+  "description": "E-invoicing module that generates tlv hex and base64 with qr code as image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.0"
+  }
+}
