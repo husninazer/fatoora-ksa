@@ -36,7 +36,7 @@ console.log(base64String);
 // Below method returns a promise
 const qrCode = await fatooraKsa.toBase64(obj);
 // Will return a base64 image
-![qrcode](./qrcode.png)
+![qrcode]('qrcode.png')
 
 
 ```
